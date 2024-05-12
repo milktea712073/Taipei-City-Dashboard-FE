@@ -1,0 +1,2297 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536674,25.046066 ]
+    },
+    "properties": {
+    "項次":1,
+    "路口":"八德路二段　　建國北一段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.552605,25.048208 ]
+    },
+    "properties": {
+    "項次":2,
+    "路口":"八德路三段　　北寧路",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55782,25.048206 ]
+    },
+    "properties": {
+    "項次":3,
+    "路口":"八德路三段　　光復北路",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55333,25.048195 ]
+    },
+    "properties": {
+    "項次":4,
+    "路口":"八德路三段　　延吉街",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55418,25.048164 ]
+    },
+    "properties": {
+    "項次":5,
+    "路口":"八德路三段　　寧安街",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56937,25.049397 ]
+    },
+    "properties": {
+    "項次":6,
+    "路口":"八德路四段    　基隆路一段",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.57405,25.04996 ]
+    },
+    "properties": {
+    "項次":7,
+    "路口":"八德路四段　　626號",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52162,25.049839 ]
+    },
+    "properties": {
+    "項次":8,
+    "路口":"中山北一段　　長安東一段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52271,25.055 ]
+    },
+    "properties": {
+    "項次":9,
+    "路口":"中山北二段　　長春路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52296,25.060333 ]
+    },
+    "properties": {
+    "項次":10,
+    "路口":"中山北二段　　錦州街",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52225,25.064903 ]
+    },
+    "properties": {
+    "項次":11,
+    "路口":"中山北三段　　農安街",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52243,25.06684 ]
+    },
+    "properties": {
+    "項次":12,
+    "路口":"中山北三段　　德惠街",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51931,25.044523 ]
+    },
+    "properties": {
+    "項次":13,
+    "路口":"中山南路　　　青島東路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51853,25.041924 ]
+    },
+    "properties": {
+    "項次":14,
+    "路口":"中山南路　　　徐州路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.518135,25.04071 ]
+    },
+    "properties": {
+    "項次":15,
+    "路口":"中山南路　　　常德街",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.518974,25.043318 ]
+    },
+    "properties": {
+    "項次":16,
+    "路口":"中山南路　　　濟南路一段",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52461,25.095024 ]
+    },
+    "properties": {
+    "項次":17,
+    "路口":"中正路　    　　文林路",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52002,25.09339 ]
+    },
+    "properties": {
+    "項次":18,
+    "路口":"中正路　　　　基河路",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.504135,25.03124 ]
+    },
+    "properties": {
+    "項次":19,
+    "路口":"中華路二段　　莒光路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50654,25.036032 ]
+    },
+    "properties": {
+    "項次":20,
+    "路口":"中華路二段　　廣州街",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51767,25.039053 ]
+    },
+    "properties": {
+    "項次":21,
+    "路口":"仁愛路一段　　中山南路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.521576,25.038767 ]
+    },
+    "properties": {
+    "項次":22,
+    "路口":"仁愛路一段　　林森南路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54604,25.03796 ]
+    },
+    "properties": {
+    "項次":23,
+    "路口":"仁愛路四段　　大安路一段",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55756,25.037668 ]
+    },
+    "properties": {
+    "項次":24,
+    "路口":"仁愛路四段　　光復南路",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56686,25.08216 ]
+    },
+    "properties": {
+    "項次":25,
+    "路口":"內湖路一段　　285巷",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.57687,25.079447 ]
+    },
+    "properties": {
+    "項次":26,
+    "路口":"內湖路一段　　港墘路",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534645,25.118101 ]
+    },
+    "properties": {
+    "項次":27,
+    "路口":"天母東路　　　忠誠路二段",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52596,25.092352 ]
+    },
+    "properties": {
+    "項次":28,
+    "路口":"文林路　　    　福德路",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.527,25.090284 ]
+    },
+    "properties": {
+    "項次":29,
+    "路口":"文林路　　　　小北街",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.578865,25.078592 ]
+    },
+    "properties": {
+    "項次":30,
+    "路口":"文德路　　　　江南街",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.560104,24.988789 ]
+    },
+    "properties": {
+    "項次":31,
+    "路口":"木柵路二段　　興隆路四段",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.49802,25.132055 ]
+    },
+    "properties": {
+    "項次":32,
+    "路口":"北投路二段　　捷運北投站門口",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50818,25.050508 ]
+    },
+    "properties": {
+    "項次":33,
+    "路口":"市民一段　　　西寧北路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.510506,25.050161 ]
+    },
+    "properties": {
+    "項次":34,
+    "路口":"市民一段　　　塔城街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53952,25.044758 ]
+    },
+    "properties": {
+    "項次":35,
+    "路口":"市民三段　　　八德路二段210巷北側",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56351,25.035887 ]
+    },
+    "properties": {
+    "項次":36,
+    "路口":"市府路　　　　松壽路",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52065,25.057669 ]
+    },
+    "properties": {
+    "項次":37,
+    "路口":"民生西路        　66巷(捷運1號出口)",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.516975,25.057144 ]
+    },
+    "properties": {
+    "項次":38,
+    "路口":"民生西路　　　太原路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50899,25.056896 ]
+    },
+    "properties": {
+    "項次":39,
+    "路口":"民生西路　　　西寧北路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50984,25.05691 ]
+    },
+    "properties": {
+    "項次":40,
+    "路口":"民生西路　　　迪化街一段",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51552,25.057032 ]
+    },
+    "properties": {
+    "項次":41,
+    "路口":"民生西路　　　寧夏路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.519165,25.057453 ]
+    },
+    "properties": {
+    "項次":42,
+    "路口":"民生西路　　　雙連街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52287,25.057932 ]
+    },
+    "properties": {
+    "項次":43,
+    "路口":"民生東一段　　中山北二段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52552,25.058056 ]
+    },
+    "properties": {
+    "項次":44,
+    "路口":"民生東一段　　林森北路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52761,25.058025 ]
+    },
+    "properties": {
+    "項次":45,
+    "路口":"民生東一段　　新生北二段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.530205,25.05798 ]
+    },
+    "properties": {
+    "項次":46,
+    "路口":"民生東二段　　吉林路　",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53918,25.057846 ]
+    },
+    "properties": {
+    "項次":47,
+    "路口":"民生東三段　　合江街　",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54416,25.05777 ]
+    },
+    "properties": {
+    "項次":48,
+    "路口":"民生東三段　　復興北路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54066,25.057823 ]
+    },
+    "properties": {
+    "項次":49,
+    "路口":"民生東三段　　龍江路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53047,25.068287 ]
+    },
+    "properties": {
+    "項次":50,
+    "路口":"民族東路　　　吉林路　",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51473,25.062958 ]
+    },
+    "properties": {
+    "項次":51,
+    "路口":"民權西路　　　蘭州街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52261,25.06278 ]
+    },
+    "properties": {
+    "項次":52,
+    "路口":"民權東一段　　中山北二段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.525635,25.062693 ]
+    },
+    "properties": {
+    "項次":53,
+    "路口":"民權東一段　　林森北路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53492,25.062447 ]
+    },
+    "properties": {
+    "項次":54,
+    "路口":"民權東二段　　135巷",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5317,25.062529 ]
+    },
+    "properties": {
+    "項次":55,
+    "路口":"民權東二段　　71巷",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5303,25.062574 ]
+    },
+    "properties": {
+    "項次":56,
+    "路口":"民權東二段　　吉林路　",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53321,25.062489 ]
+    },
+    "properties": {
+    "項次":57,
+    "路口":"民權東二段　　松江路　",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53702,25.062397 ]
+    },
+    "properties": {
+    "項次":58,
+    "路口":"民權東二段　　建國北二段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54666,25.062073 ]
+    },
+    "properties": {
+    "項次":59,
+    "路口":"民權東三段　　140巷",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54424,25.062208 ]
+    },
+    "properties": {
+    "項次":60,
+    "路口":"民權東三段　　復興北路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.540855,25.062363 ]
+    },
+    "properties": {
+    "項次":61,
+    "路口":"民權東三段　　龍江路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.60447,25.07143 ]
+    },
+    "properties": {
+    "項次":62,
+    "路口":"民權東六段　　248巷",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.59088,25.068949 ]
+    },
+    "properties": {
+    "項次":63,
+    "路口":"民權東六段　　成功路二段",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.605736,25.073334 ]
+    },
+    "properties": {
+    "項次":64,
+    "路口":"民權東六段　　康寧路三段",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53571,25.004776 ]
+    },
+    "properties": {
+    "項次":65,
+    "路口":"汀州路四段　　羅斯福五段170巷",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51483,25.11509 ]
+    },
+    "properties": {
+    "項次":66,
+    "路口":"石牌路一段　　西安街二段",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515236,25.11532 ]
+    },
+    "properties": {
+    "項次":67,
+    "路口":"石牌路二段    　東華街二段　",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5227,25.119957 ]
+    },
+    "properties": {
+    "項次":68,
+    "路口":"石牌路二段　　322號(致德樓)",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52136,25.11899 ]
+    },
+    "properties": {
+    "項次":69,
+    "路口":"石牌路二段　　振興街",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4988,25.132282 ]
+    },
+    "properties": {
+    "項次":70,
+    "路口":"光明路　　　　育仁路",
+    "行政區":"北投區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55751,25.035393 ]
+    },
+    "properties": {
+    "項次":71,
+    "路口":"光復南路　　　456巷",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.585815,25.046047 ]
+    },
+    "properties": {
+    "項次":72,
+    "路口":"同德路　　　　成福路",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.58698,25.046377 ]
+    },
+    "properties": {
+    "項次":73,
+    "路口":"同德路　　　　東新街80巷",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55253,25.035398 ]
+    },
+    "properties": {
+    "項次":74,
+    "路口":"安和路一段　　109巷",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.59521,25.084188 ]
+    },
+    "properties": {
+    "項次":75,
+    "路口":"成功路四段　　金龍路",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50594,25.042763 ]
+    },
+    "properties": {
+    "項次":76,
+    "路口":"成都路　    　　西寧南路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50482,25.043036 ]
+    },
+    "properties": {
+    "項次":77,
+    "路口":"成都路　　    　昆明街",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50261,25.043564 ]
+    },
+    "properties": {
+    "項次":78,
+    "路口":"成都路　　    　康定路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5075,25.042383 ]
+    },
+    "properties": {
+    "項次":79,
+    "路口":"成都路　　　　漢中街",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.49255,25.025883 ]
+    },
+    "properties": {
+    "項次":80,
+    "路口":"西園路二段　　光復橋頭",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52924,25.0197 ]
+    },
+    "properties": {
+    "項次":81,
+    "路口":"辛亥路一段　　羅斯福三段",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54334,25.021282 ]
+    },
+    "properties": {
+    "項次":82,
+    "路口":"辛亥路二段　　復興南二段",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5285,25.026573 ]
+    },
+    "properties": {
+    "項次":83,
+    "路口":"和平東一段    　師大路",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54668,25.024616 ]
+    },
+    "properties": {
+    "項次":84,
+    "路口":"和平東二段　　臥龍街",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51185,25.052044 ]
+    },
+    "properties": {
+    "項次":85,
+    "路口":"延平北一段　　長安西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51176,25.053896 ]
+    },
+    "properties": {
+    "項次":86,
+    "路口":"延平北一段　　南京西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51158,25.056929 ]
+    },
+    "properties": {
+    "項次":87,
+    "路口":"延平北二段　　民生西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51149,25.05813 ]
+    },
+    "properties": {
+    "項次":88,
+    "路口":"延平北二段　　歸綏街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515015,25.046822 ]
+    },
+    "properties": {
+    "項次":89,
+    "路口":"忠孝西一段　　館前路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50763,25.04863 ]
+    },
+    "properties": {
+    "項次":90,
+    "路口":"忠孝西二段　　西寧南路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54375,25.041613 ]
+    },
+    "properties": {
+    "項次":91,
+    "路口":"忠孝東三段　　復興南一段",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.57782,25.04086 ]
+    },
+    "properties": {
+    "項次":92,
+    "路口":"忠孝東五段　　松山路",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.59401,25.050426 ]
+    },
+    "properties": {
+    "項次":93,
+    "路口":"忠孝東六段　　昆陽街",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56448,25.041174 ]
+    },
+    "properties": {
+    "項次":94,
+    "路口":"忠孝東四段　　基隆路一段",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53031,25.1084 ]
+    },
+    "properties": {
+    "項次":95,
+    "路口":"忠誠路一段　　德行東路",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53412,25.116537 ]
+    },
+    "properties": {
+    "項次":96,
+    "路口":"忠誠路二段　　207巷",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51701,25.050882 ]
+    },
+    "properties": {
+    "項次":97,
+    "路口":"承德路一段　　長安西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.516754,25.049913 ]
+    },
+    "properties": {
+    "項次":98,
+    "路口":"承德路一段　　華陰街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51816,25.05734 ]
+    },
+    "properties": {
+    "項次":99,
+    "路口":"承德路二段　　民生西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51826,25.062874 ]
+    },
+    "properties": {
+    "項次":100,
+    "路口":"承德路二段　　民權西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51862,25.071903 ]
+    },
+    "properties": {
+    "項次":101,
+    "路口":"承德路三段    　庫倫街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51839,25.068546 ]
+    },
+    "properties": {
+    "項次":102,
+    "路口":"承德路三段　　民族西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51844,25.070583 ]
+    },
+    "properties": {
+    "項次":103,
+    "路口":"承德路三段　　酒泉街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52242,25.080784 ]
+    },
+    "properties": {
+    "項次":104,
+    "路口":"承德路四段　　33,40巷",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51608,25.065907 ]
+    },
+    "properties": {
+    "項次":105,
+    "路口":"昌吉街　　　　大龍街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51574,25.0659 ]
+    },
+    "properties": {
+    "項次":106,
+    "路口":"昌吉街　　　　蘭州街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56842,25.039055 ]
+    },
+    "properties": {
+    "項次":107,
+    "路口":"松高路　　　　松仁路",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.565445,25.035852 ]
+    },
+    "properties": {
+    "項次":108,
+    "路口":"松壽路　　　　松智路",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56755,25.035816 ]
+    },
+    "properties": {
+    "項次":109,
+    "路口":"松壽路　　　　信義威秀",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.525604,25.061691 ]
+    },
+    "properties": {
+    "項次":110,
+    "路口":"林森北路        　新興國中",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52491,25.050362 ]
+    },
+    "properties": {
+    "項次":111,
+    "路口":"林森北路　　　107巷",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52542,25.053907 ]
+    },
+    "properties": {
+    "項次":112,
+    "路口":"林森北路　　　235巷(欣欣大眾公司)",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52566,25.064104 ]
+    },
+    "properties": {
+    "項次":113,
+    "路口":"林森北路　　　中山國小",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52546,25.054935 ]
+    },
+    "properties": {
+    "項次":114,
+    "路口":"林森北路　　　長春路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52556,25.060305 ]
+    },
+    "properties": {
+    "項次":115,
+    "路口":"林森北路　　　錦州街",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5201,25.050196 ]
+    },
+    "properties": {
+    "項次":116,
+    "路口":"長安西路　　　52巷",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515434,25.051237 ]
+    },
+    "properties": {
+    "項次":117,
+    "路口":"長安西路　　　太原路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51827,25.050613 ]
+    },
+    "properties": {
+    "項次":118,
+    "路口":"長安西路　　　南京西路64巷",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.524574,25.049158 ]
+    },
+    "properties": {
+    "項次":119,
+    "路口":"長安東一段    　林森北路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53296,25.048458 ]
+    },
+    "properties": {
+    "項次":120,
+    "路口":"長安東二段    　松江路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50207,25.040503 ]
+    },
+    "properties": {
+    "項次":121,
+    "路口":"長沙街二段　　康定路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53153,25.054838 ]
+    },
+    "properties": {
+    "項次":122,
+    "路口":"長春路　　　　一江街",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.506485,25.026068 ]
+    },
+    "properties": {
+    "項次":123,
+    "路口":"青年路　　　　國興路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.517136,25.045021 ]
+    },
+    "properties": {
+    "項次":124,
+    "路口":"青島西路　　　公園路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50873,25.053375 ]
+    },
+    "properties": {
+    "項次":125,
+    "路口":"南京西路　　　西寧北路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52254,25.052246 ]
+    },
+    "properties": {
+    "項次":126,
+    "路口":"南京東一段　　中山北一段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.525375,25.052094 ]
+    },
+    "properties": {
+    "項次":127,
+    "路口":"南京東一段　　林森北路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55511,25.05161 ]
+    },
+    "properties": {
+    "項次":128,
+    "路口":"南京東四段　　寧安街",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.61393,25.055298 ]
+    },
+    "properties": {
+    "項次":129,
+    "路口":"南港路一段　　三重路",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.60749,25.054502 ]
+    },
+    "properties": {
+    "項次":130,
+    "路口":"南港路一段　　興中路",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6062,25.054272 ]
+    },
+    "properties": {
+    "項次":131,
+    "路口":"南港路二段    　興華路",
+    "行政區":"南港區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53697,25.060284 ]
+    },
+    "properties": {
+    "項次":132,
+    "路口":"建國北二段　　錦州街",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53666,25.04476 ]
+    },
+    "properties": {
+    "項次":133,
+    "路口":"建國南一段    　市民三段",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53768,25.02876 ]
+    },
+    "properties": {
+    "項次":134,
+    "路口":"建國南二段　　151巷　",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.577225,24.987368 ]
+    },
+    "properties": {
+    "項次":135,
+    "路口":"指南路二段　　147巷",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.57615,24.987593 ]
+    },
+    "properties": {
+    "項次":136,
+    "路口":"指南路二段　　政治大學",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50734,25.047592 ]
+    },
+    "properties": {
+    "項次":137,
+    "路口":"洛陽街　　    　西寧南路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.570244,25.080341 ]
+    },
+    "properties": {
+    "項次":138,
+    "路口":"洲子街　　　　內湖路一段360巷",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51394,25.0516 ]
+    },
+    "properties": {
+    "項次":139,
+    "路口":"重慶北一段　　長安西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.514435,25.05408 ]
+    },
+    "properties": {
+    "項次":140,
+    "路口":"重慶北一段　　南京西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51377,25.056976 ]
+    },
+    "properties": {
+    "項次":141,
+    "路口":"重慶北二段　　民生西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51356,25.062988 ]
+    },
+    "properties": {
+    "項次":142,
+    "路口":"重慶北二段　　民權西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.513626,25.059223 ]
+    },
+    "properties": {
+    "項次":143,
+    "路口":"重慶北二段　　保安街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51364,25.058168 ]
+    },
+    "properties": {
+    "項次":144,
+    "路口":"重慶北二段　　歸綏街　",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51371,25.068613 ]
+    },
+    "properties": {
+    "項次":145,
+    "路口":"重慶北三段　　民族西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51367,25.065939 ]
+    },
+    "properties": {
+    "項次":146,
+    "路口":"重慶北三段　　昌吉街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51381,25.07291 ]
+    },
+    "properties": {
+    "項次":147,
+    "路口":"重慶北三段　　哈密街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51376,25.072035 ]
+    },
+    "properties": {
+    "項次":148,
+    "路口":"重慶北三段　　酒泉街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.511894,25.083944 ]
+    },
+    "properties": {
+    "項次":149,
+    "路口":"重慶北四段　　葫東街",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50509,25.043964 ]
+    },
+    "properties": {
+    "項次":150,
+    "路口":"峨眉街　　　　昆明街",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50384,25.038008 ]
+    },
+    "properties": {
+    "項次":151,
+    "路口":"桂林路　　　　昆明街",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.515854,25.071981 ]
+    },
+    "properties": {
+    "項次":152,
+    "路口":"酒泉街　　　　大龍街",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55274,25.053347 ]
+    },
+    "properties": {
+    "項次":153,
+    "路口":"健康路　　　　15巷",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51607,25.041246 ]
+    },
+    "properties": {
+    "項次":154,
+    "路口":"常德街　　　　公園路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.60599,25.073734 ]
+    },
+    "properties": {
+    "項次":155,
+    "路口":"康寧路三段　　圓環北側",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.606155,25.073132 ]
+    },
+    "properties": {
+    "項次":156,
+    "路口":"康寧路三段　　圓環東側",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52369,25.079924 ]
+    },
+    "properties": {
+    "項次":157,
+    "路口":"通河街　　　　2巷",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54898,25.054379 ]
+    },
+    "properties": {
+    "項次":158,
+    "路口":"敦化北路　　　長春路",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55218,25.054241 ]
+    },
+    "properties": {
+    "項次":159,
+    "路口":"敦化北路155巷　　100弄",
+    "行政區":"松山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54333,24.99275 ]
+    },
+    "properties": {
+    "項次":160,
+    "路口":"景中街　　　　景後街　",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50199,25.040064 ]
+    },
+    "properties": {
+    "項次":161,
+    "路口":"貴陽街二段　　康定路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.497894,25.04007 ]
+    },
+    "properties": {
+    "項次":162,
+    "路口":"貴陽街二段　　環河南二段",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.534485,25.028265 ]
+    },
+    "properties": {
+    "項次":163,
+    "路口":"新生南二段　　青田街7巷",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.577965,24.997421 ]
+    },
+    "properties": {
+    "項次":164,
+    "路口":"新光路二段　　服務中心",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.580086,24.998669 ]
+    },
+    "properties": {
+    "項次":165,
+    "路口":"新光路二段　　動物園　",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.58179,25.06183 ]
+    },
+    "properties": {
+    "項次":166,
+    "路口":"新湖一路　　　行愛路",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.569405,25.078863 ]
+    },
+    "properties": {
+    "項次":167,
+    "路口":"瑞光路　　　　478,513巷",
+    "行政區":"內湖區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.499886,25.02118 ]
+    },
+    "properties": {
+    "項次":168,
+    "路口":"萬大路423巷　  光仁國小",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53324,25.064749 ]
+    },
+    "properties": {
+    "項次":169,
+    "路口":"農安街　　　　松江路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52568,25.064907 ]
+    },
+    "properties": {
+    "項次":170,
+    "路口":"農安街　　　　林森北路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51641,25.030046 ]
+    },
+    "properties": {
+    "項次":171,
+    "路口":"寧波西街　    　牯嶺街",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51888,25.028955 ]
+    },
+    "properties": {
+    "項次":172,
+    "路口":"福州街　　　　南昌路二段",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.522964,25.1019 ]
+    },
+    "properties": {
+    "項次":173,
+    "路口":"福國路　　　　福華路",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.58152,25.037138 ]
+    },
+    "properties": {
+    "項次":174,
+    "路口":"福德街　　　　福德街84巷",
+    "行政區":"信義區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50147,25.036594 ]
+    },
+    "properties": {
+    "項次":175,
+    "路口":"廣州街　　　　康定路",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52197,25.104626 ]
+    },
+    "properties": {
+    "項次":176,
+    "路口":"德行西路　　　福華路西",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52237,25.104908 ]
+    },
+    "properties": {
+    "項次":177,
+    "路口":"德行西路　　　福華路東",
+    "行政區":"士林區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53042,25.06659 ]
+    },
+    "properties": {
+    "項次":178,
+    "路口":"德惠街　　　　吉林路　",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.524216,25.02921 ]
+    },
+    "properties": {
+    "項次":179,
+    "路口":"潮州街　　　　59巷",
+    "行政區":"大安區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.55966,24.99508 ]
+    },
+    "properties": {
+    "項次":180,
+    "路口":"興隆路三段　　海岸巡防署",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.557495,24.999315 ]
+    },
+    "properties": {
+    "項次":181,
+    "路口":"興隆路三段　　萬芳醫院",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.56269,24.986742 ]
+    },
+    "properties": {
+    "項次":182,
+    "路口":"興隆路四段109巷       32弄",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.539215,25.06024 ]
+    },
+    "properties": {
+    "項次":183,
+    "路口":"錦州街　　　　合江街",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54074,25.060228 ]
+    },
+    "properties": {
+    "項次":184,
+    "路口":"錦州街　　　　龍江路",
+    "行政區":"中山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.508255,25.056858 ]
+    },
+    "properties": {
+    "項次":185,
+    "路口":"環河北一段　　民生西路",
+    "行政區":"大同區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.49303,25.033861 ]
+    },
+    "properties": {
+    "項次":186,
+    "路口":"環河南二段　　149巷",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51664,25.04335 ]
+    },
+    "properties": {
+    "項次":187,
+    "路口":"襄陽路　　    　公園路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.51502,25.043423 ]
+    },
+    "properties": {
+    "項次":188,
+    "路口":"襄陽路　　    　館前路",
+    "行政區":"中正區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54115,24.995935 ]
+    },
+    "properties": {
+    "項次":189,
+    "路口":"羅斯福六段　　三福街",
+    "行政區":"文山區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.496086,25.02136 ]
+    },
+    "properties": {
+    "項次":190,
+    "路口":"寶興街　　　　萬大路424巷",
+    "行政區":"萬華區"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52157,25.10174 ]
+    },
+    "properties": {
+    "項次":191,
+    "路口":"文林路　　　　福國路",
+    "行政區":"士林區"
+    }
+  }
+]
+}
